@@ -1,12 +1,12 @@
 # Google Ads Performance Audit — E-commerce Beauty Brand
 
-### Search + Demand Generation | Portfolio Simulation | 2026
+### Search + Demand Gen | Performance Marketing Case Study | Portfolio Simulation | 2026
 
 > **Portfolio Project:** Google Ads account audit reconstruction focused on performance analysis, campaign diagnostics, optimization prioritization, and account QA.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a structured Google Ads performance audit for an e-commerce beauty brand operating in the Pakistani market.
 
@@ -27,7 +27,7 @@ The project demonstrates how I approach a Google Ads account from an **analysis 
 
 ---
 
-## ⚠️ Portfolio Disclosure
+## Portfolio Disclosure
 
 This is an **independent portfolio simulation and audit reconstruction** based on publicly available educational material.
 
@@ -49,7 +49,7 @@ Where information was not available in the source material, I have intentionally
 
 ---
 
-# 🎯 Audit Objectives
+## Audit Objectives
 
 The audit was structured around the following objectives:
 
@@ -66,43 +66,47 @@ The audit was structured around the following objectives:
 
 ---
 
-# 🏢 Business Context
+## Business & Campaign Context
 
-| Attribute | Details |
+| Category | Details |
 |---|---|
 | Industry | E-commerce / Beauty |
-| Product Category | Hair Color / Hair Care |
+| Product Category | Hair Color & Hair Care |
 | Primary Market | Pakistan |
-| Campaign Types Reviewed | Search + Demand Generation |
-| Business Model | E-commerce |
-| Audit Type | Portfolio Simulation / Audit Reconstruction |
-| Year | 2026 |
+| Business Model | Direct-to-Consumer (DTC) E-commerce |
+| Campaign Types Reviewed | Google Search + Demand Gen |
+| Primary Acquisition Channels | Search Intent + Demand Generation |
+| Audit Type | Portfolio Simulation / Account Audit Reconstruction |
+| Analysis Period | 2026 |
+| Primary Objective | Identify performance inefficiencies and prioritize optimization opportunities |
 
 ---
 
-# 🔍 Areas Analyzed
+## Areas Analyzed
 
-The audit covered multiple layers of Google Ads performance:
+The audit evaluates available campaign-level performance data across Search and Demand Gen campaigns from a performance-marketing perspective.
 
-| Audit Area | Focus |
+| Audit Area | Analysis Focus |
 |---|---|
-| Campaign Performance | Spend, conversions, CPA and efficiency |
-| Campaign Structure | Search and Demand Generation setup |
-| Bidding | Bidding strategy and target considerations |
-| Keywords | Match types and keyword structure |
-| Search Terms | Relevance and negative-keyword opportunities |
-| Audiences | Segment-level efficiency |
-| Locations | Geographic performance and inefficient areas |
-| Devices | Device-level performance |
-| Ad Schedule | Timing and conversion opportunities |
-| Ad Assets | Extensions/assets and asset quality |
-| Landing Page | Conversion-focused observations |
-| Account QA | Asset, destination and policy-related issues |
-| Optimization | Prioritized actions and testing opportunities |
+| Campaign Performance | Spend, conversions, CPA, efficiency, and performance trends |
+| Campaign Structure | Campaign segmentation, organization, targeting, and setup |
+| Bidding & Budget | Bid strategy, budget allocation, target considerations, and efficiency |
+| Keywords | Keyword selection, match types, intent alignment, and coverage |
+| Search Terms | Query relevance, traffic quality, negative-keyword opportunities, and expansion |
+| Audiences | Audience segments, performance differences, and optimization opportunities |
+| Geographic Performance | Location-level efficiency, spend distribution, and optimization opportunities |
+| Device Performance | Performance differences across mobile, desktop, and tablet |
+| Ad Scheduling | Time-based performance patterns and potential scheduling opportunities |
+| Ad Assets | Asset quality, eligibility, completeness, and account-level QA |
+| Landing Pages | Message alignment, CTA visibility, mobile experience, and conversion considerations |
+| Conversion & Tracking QA | Conversion setup considerations, measurement risks, and data-quality checks |
+| Account QA | Destination URLs, assets, policy-related considerations, and implementation checks |
+| Optimization Prioritization | High-impact actions ranked by potential business impact and implementation priority |
+| Testing Opportunities | Recommended experiments for targeting, creative, landing pages, and budget allocation |
 
 ---
 
-# 📊 Key Findings
+## Key Findings
 
 ### 01 — Campaign efficiency varied significantly
 
@@ -149,7 +153,7 @@ The search-term review identified opportunities for:
 
 ### 06 — Ad asset QA issues require attention
 
-The audit identified asset-related issues including business-logo problems and other asset/eligibility concerns.
+The audit identified asset-related issues, including business logo and asset eligibility concerns.
 
 These should be reviewed, corrected, replaced, or appealed where appropriate to protect campaign eligibility and ad quality.
 
@@ -171,7 +175,7 @@ These recommendations are presented as optimization opportunities rather than me
 
 ---
 
-# 🧠 Optimization Framework
+## Optimization Framework
 
 The audit follows a structured performance-marketing workflow:
 
@@ -191,3 +195,37 @@ TEST
 MEASURE
   ↓
 SCALE
+```
+
+---
+
+## Tools & Skills Demonstrated
+
+### Google Ads
+
+* Search campaign analysis
+* Demand Gen campaign analysis
+* Keyword and search-term analysis
+* Negative keyword identification
+* Audience and geographic analysis
+* Device and ad-schedule analysis
+* Bid strategy and budget evaluation
+* Ad asset and account QA
+
+### Performance Marketing
+
+* Performance diagnosis
+* Wasted-spend identification
+* Budget prioritization
+* Conversion-focused optimization
+* Testing and experimentation
+* Landing-page evaluation
+* Data-driven decision making
+
+### Analytical Skills
+
+* Campaign-level performance analysis
+* CPA and efficiency evaluation
+* Segment-level comparison
+* Optimization prioritization
+* Evidence-based recommendations
