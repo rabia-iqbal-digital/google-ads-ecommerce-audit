@@ -63,7 +63,7 @@ The audit was structured around the following objectives:
 8. Evaluate ad assets and account QA.
 9. Identify landing-page and conversion opportunities.
 10. Develop prioritized optimization recommendations.
-
+I analyzed the available evidence, diagnosed potential performance inefficiencies, and developed prioritized optimization recommendations based on the findings.
 ---
 
 ## Business & Campaign Context
@@ -126,7 +126,7 @@ This suggests that higher-intent traffic should receive careful consideration wh
 
 ### 03 — Audience performance required tighter optimization
 
-Audience-level analysis identified significant differences in cost efficiency.
+The available audience-level data indicated meaningful differences in observed cost efficiency.
 
 The audit therefore recommends reducing or pausing inefficient audience segments while protecting and testing segments demonstrating stronger performance.
 
@@ -134,7 +134,7 @@ The audit therefore recommends reducing or pausing inefficient audience segments
 
 ### 04 — Geographic performance presented optimization opportunities
 
-Location-level data showed variation between cities.
+The available location-level data indicated variation in observed performance across cities.
 
 The recommended approach is to identify consistently inefficient locations, reduce wasted spend where supported by sufficient data, and prioritize locations demonstrating stronger conversion efficiency.
 
@@ -229,3 +229,16 @@ SCALE
 * Segment-level comparison
 * Optimization prioritization
 * Evidence-based recommendations
+
+## Priority Recommendations
+
+| Priority | Area | Recommendation | Impact Priority |
+|---|---|---|---|
+| P0 | Budget Allocation | Reallocate budget toward campaigns demonstrating stronger observed efficiency, subject to sufficient conversion volume and business constraints | High |
+| P0 | Search Terms | Expand negative-keyword coverage and review irrelevant queries | High |
+| P1 | Audiences | Reduce inefficient audience exposure where supported by sufficient data | High |
+| P1 | Locations | Review consistently inefficient locations and reallocate budget | Medium–High |
+| P1 | Campaign Settings | Review network, targeting, language, and location settings | High |
+| P2 | Ad Assets | Resolve logo and asset eligibility issues | Medium |
+| P2 | Landing Page | Improve CTA visibility, mobile hierarchy, and offer communication | Medium |
+| P3 | Testing | Test creative, audience, landing-page, and budget-allocation hypotheses | Medium |
