@@ -63,7 +63,9 @@ The audit was structured around the following objectives:
 8. Evaluate ad assets and account QA.
 9. Identify landing-page and conversion opportunities.
 10. Develop prioritized optimization recommendations.
+
 I analyzed the available evidence, diagnosed potential performance inefficiencies, and developed prioritized optimization recommendations based on the findings.
+
 ---
 
 ## Business & Campaign Context
