@@ -1,4 +1,4 @@
-# Google Ads Performance Audit — E-commerce Beauty Brand
+#   Google Ads Performance Audit | E-commerce Beauty Brand
 
 ### Search + Demand Gen | Performance Marketing Case Study | Portfolio Simulation | 2026
 
@@ -108,7 +108,7 @@ The audit evaluates available campaign-level performance data across Search and 
 
 ## Key Findings
 
-### 01 — Campaign efficiency varied significantly
+### 01 | Campaign efficiency varied significantly
 
 The available performance data showed meaningful differences in efficiency between campaign types and periods.
 
@@ -116,7 +116,7 @@ This created an opportunity to review budget allocation based on validated perfo
 
 ---
 
-### 02 — Search showed stronger observed efficiency
+### 02 | Search showed stronger observed efficiency
 
 The Search campaign demonstrated substantially stronger observed conversion efficiency than the Demand Generation campaign in the reviewed data.
 
@@ -124,7 +124,7 @@ This suggests that higher-intent traffic should receive careful consideration wh
 
 ---
 
-### 03 — Audience performance required tighter optimization
+### 03 | Audience performance required tighter optimization
 
 The available audience-level data indicated meaningful differences in observed cost efficiency.
 
@@ -132,7 +132,7 @@ The audit therefore recommends reducing or pausing inefficient audience segments
 
 ---
 
-### 04 — Geographic performance presented optimization opportunities
+### 04 | Geographic performance presented optimization opportunities
 
 The available location-level data indicated variation in observed performance across cities.
 
@@ -140,7 +140,7 @@ The recommended approach is to identify consistently inefficient locations, redu
 
 ---
 
-### 05 — Search-term management can improve traffic quality
+### 05 | Search-term management can improve traffic quality
 
 The search-term review identified opportunities for:
 
@@ -151,7 +151,7 @@ The search-term review identified opportunities for:
 
 ---
 
-### 06 — Ad asset QA issues require attention
+### 06 | Ad asset QA issues require attention
 
 The audit identified asset-related issues, including business logo and asset eligibility concerns.
 
@@ -159,7 +159,7 @@ These should be reviewed, corrected, replaced, or appealed where appropriate to 
 
 ---
 
-### 07 — Landing-page conversion opportunities exist
+### 07 | Landing-page conversion opportunities exist
 
 The landing-page review identified opportunities around:
 
